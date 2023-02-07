@@ -45,4 +45,6 @@ while True:
     if option == '3':
         break
 
+print("Program finished.")
+
 conn.close()
